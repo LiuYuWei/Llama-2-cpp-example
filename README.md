@@ -8,3 +8,6 @@ Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp
 
 Part 2: How to let llama 2 Model as a Fastapi Service
 Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/Llama_2_FastAPI_Service_Colab_Example.ipynb)
+
+Part 3: How to let mistral 7b Model as a Fastapi Service
+Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/Mistral_7b_FastAPI_Service_Colab_Example_External_Version.ipynb)
