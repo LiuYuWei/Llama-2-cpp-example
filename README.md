@@ -11,3 +11,6 @@ Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp
 
 Part 3: How to let mistral 7b Model as a Fastapi Service
 Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/Mistral_7b_FastAPI_Service_Colab_Example_External_Version.ipynb)
+
+- GGUF example code:
+Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/demo-1-llama_gguf_prediction.ipynb)
