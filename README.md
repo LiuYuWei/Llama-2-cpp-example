@@ -19,3 +19,6 @@ Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp
 
 - Demo 2 - Embedding Vector and RAG:
 Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/demo-2-rag_example.ipynb)
+
+- Demo 3 - Let mistral 7b Model as a Fastapi Service
+Colab Link: [Link](https://colab.research.google.com/github/LiuYuWei/Llama-2-cpp-example/blob/main/demo-3-Mistral_7b_FastAPI_Service_Colab_Example_External_Version_v2.ipynb)
